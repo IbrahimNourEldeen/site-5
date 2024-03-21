@@ -1,0 +1,27 @@
+header{
+    background-color: #37517e;
+    height: 75vh;
+}
+.same-color{
+    color: #37517e;
+}
+.bgc{
+    background-color: #37517e;
+}
+.sheet5{
+    height: 50vh;
+    background-image: url("../images/cta-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.shad{
+    background-color:#37517edb;
+}
+.price-sheet .container .row .col .div1:hover {
+    transition: 0.4s;
+    border-top: 5px solid #0DCAF0;
+    .btn{
+        background-color: #0DCAF0;
+        color: white !important;
+    }
+}
